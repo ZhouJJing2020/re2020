@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一切都会好起来的！
 
 You can use the [editor on GitHub](https://github.com/ZhouJJing2020/re2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
